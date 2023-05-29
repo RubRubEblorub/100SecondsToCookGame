@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be12f38c55dfd2f418c34332f4cb3447, type: 3}
+  m_Name: CoolCola
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8202607898694893849, guid: e79470ff48142c642a8f11fb0a5f68f5, type: 3}
+  sprite: {fileID: 21300000, guid: 5b20203480bd1e34b8348410a248a2f2, type: 3}
+  objectName: Cool Cola
