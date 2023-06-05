@@ -1,4 +1,4 @@
-# 100SecondsToCookGame
+# 100 Seconds To Cook Game
 Game files and source files of my first project "100 seconds to COOK"
 
 This is fully opensource project as I took free course from YouTube channel "Code Monkey"
@@ -19,4 +19,4 @@ For this project I cloned all ideas from free course and add some features mysel
 Again, HUGE THANKS to Code Monkey for his hard work!
 
 I'm planning to grow my skills and keep in mind some ideas for the next fully standalone
-project: "metroidvania" 2D platformer like game.
+project: "metroidvania" like 2D platformer game.
